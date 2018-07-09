@@ -1,0 +1,3 @@
+D:/github/cublas/build/CMakeFiles/test_cublas.dir
+D:/github/cublas/build/CMakeFiles/ALL_BUILD.dir
+D:/github/cublas/build/CMakeFiles/ZERO_CHECK.dir

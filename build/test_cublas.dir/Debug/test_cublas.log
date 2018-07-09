@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9002: ignoring unknown option '-lpthread'
+  test_cublas.cpp
+D:\github\cublas\test_cublas.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\github\cublas\test_cublas.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\github\cublas\test_cublas.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  test_cublas.vcxproj -> D:\github\cublas\build\Debug\test_cublas.exe
+  test_cublas.vcxproj -> D:/github/cublas/build/Debug/test_cublas.pdb (Full PDB)
